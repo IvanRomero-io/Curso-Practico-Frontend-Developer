@@ -1,0 +1,6 @@
+Clase 4:
+
+--Se utiliza el metodo en css ":root", para crear variables y hacer cambios que manipulen el valor todos los elementos regidos por la variable.
+
+--El ojo humano destinge espacios por 4 pixeles, cada de hacer un cambio como un espacio o margen , es bueno hacerlo con multiplo de 4
+
